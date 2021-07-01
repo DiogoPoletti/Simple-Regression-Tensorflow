@@ -1,12 +1,12 @@
 
-![Header Image]()
+![Header Image](https://github.com/DiogoPoletti/Simple-Regression-Tensorflow/blob/main/Documentation/HeaderImage2.png)
 
 # Simple Regression (Tensorflow)
 ## Description
 This is a simple program developed using the **Tensorflow** framework. This is program has the intention to cover the basic functionalities of how **Neural Networks** behaviors when analyzing data from different arrays. In addition, it is noticeable the usage of libraries such as Pandas, NumPy, and MatPlotLib to create array examples and visual representations of the calculation and analysis done by the AI. In this program, 2 matrices are created using *random library* to represent real datasets. Those matrices are then calculated and the program can create a linear relationship between the results and represent them by using a scatterplot graph. Furthermore, a correlation line is implemented by the usage of the equation *Y = MX + B* where *X* is a placeholder input hence defining the value of *Y*.
 
 ## Screenshot
-![Game Running]()
+![Program Running](https://github.com/DiogoPoletti/Simple-Regression-Tensorflow/blob/main/Documentation/demo.gif)
 
 ## What have I learned
 Creating this game enabled me to practice a few aspects:
@@ -37,4 +37,4 @@ with tf.Session() as sess:
 > This is a companion project to Python 3.8 Full Stack Masterclass, check out the full course at www.udemy.com
 
 
-![Footer Image]()
+![Footer Image](https://github.com/DiogoPoletti/Simple-Regression-Tensorflow/blob/main/Documentation/FooterImage.png)
